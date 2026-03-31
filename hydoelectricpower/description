@@ -1,5 +1,5 @@
 This project models a hydroelectric energy conversion system using MATLAB Simscape.
 It demonstrates the conversion of fluid/mechanical energy into electrical output,
 where water flow drives a system that powers a bulb.
-
+In this model, I have set different limits of power such that when the power reaches its threshold, it starts glowing; otherwise, it will be in the off state
 The model integrates multiple domains including mechanical and electrical systems.
