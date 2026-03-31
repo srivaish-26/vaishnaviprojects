@@ -1,0 +1,5 @@
+This project models a hydroelectric energy conversion system using MATLAB Simscape.
+It demonstrates the conversion of fluid/mechanical energy into electrical output,
+where water flow drives a system that powers a bulb.
+
+The model integrates multiple domains including mechanical and electrical systems.
