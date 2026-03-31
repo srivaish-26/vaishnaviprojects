@@ -1,0 +1,8 @@
+Pendulum Dynamics Analysis  
+
+• Modelled a simple pendulum system using Simscape Multibody to study dynamic motion behaviour
+• Analysed system response under two conditions: zero damping and finite damping coefficient
+• Observed continuous oscillations in the undamped case, while the damped system showed gradual decay in amplitude
+• Visualized motion using simulation videos and examined angular position and angular velocity through scope plots
+• Compared system behaviour to understand the effect of damping on energy dissipation and stability of motion
+• Demonstrates practical understanding of oscillatory systems and real-world dynamic behaviour
