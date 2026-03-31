@@ -1,0 +1,7 @@
+Electronic Valve Control with Feedback(voltage is variable here)
+
+ Developed a closed-loop simulation model of an electronically controlled valve system using Simscape integrated with Simulink control blocks
+ Implemented a feedback control mechanism where system output is continuously fed back to regulate the input voltage
+ Utilized a PI controller to adjust system response and maintain desired operating conditions
+Modelled interaction between electrical input, control logic, and physical valve behaviour
+ Analysed dynamic system response using scope outputs to study stability and control performance
