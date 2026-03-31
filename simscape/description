@@ -1,0 +1,4 @@
+Modelled a dynamic mass–spring–damper system using both Simulink (analytical block modelling) and Simscape (physical modelling)
+• Simulated system response under identical conditions
+• Compared outputs to validate consistency between mathematical and physical modelling approaches
+• Analysed displacement and damping behaviour to understand system dynamics
